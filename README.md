@@ -54,7 +54,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ### Links
 
 - Solution URL: [GitHub URL here](https://github.com/Snufalufakis/record_keeper)
-- Heroku Live Link: [Add live site URL here](https://record-keeper1.herokuapp.com/)
+- Heroku Live Link: [Heroku](https://record-keeper1.herokuapp.com/)
 
 ## My process
 
